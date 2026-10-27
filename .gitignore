@@ -1,0 +1,7 @@
+# competition data (not ours to redistribute) and generated outputs
+btc_train.csv
+btc_test.csv
+sample_submission.csv
+external/
+final/
+__pycache__/
